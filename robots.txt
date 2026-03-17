@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://encorastream.com/sitemap.xml
